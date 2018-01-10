@@ -1,1 +1,2 @@
-Class 입니다.
+Class 입니다
+pratice
